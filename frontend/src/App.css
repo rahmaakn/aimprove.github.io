@@ -1,0 +1,17 @@
+.App{
+  background: #ECE4FD;
+  background-size: cover;
+  height: 700vh;
+}
+
+@media (min-width: 768px){
+  .App{
+    height: 500vh;
+  }
+}
+
+@media (min-width: 991px){
+  .App{
+    height: 500vh;
+  }
+}

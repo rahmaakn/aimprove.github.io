@@ -1,0 +1,40 @@
+.info-panel{
+    background-color: #FFFF;
+    align-items: center;
+    border-radius: 10px;
+    height: 500px;
+    width: 440px;
+}
+
+.col-lg{
+    margin-top: 2rem;
+}
+
+.head{
+    color: #531CB9;
+    text-align: left;
+    padding: 10px;
+    margin-left: 30px;
+    font-size:xx-large ;
+    font-weight: bolder;
+}
+
+p{
+    text-align: left;
+    padding: 5px;
+    font-size: medium;
+}
+
+.btn{
+    align-items: center;
+    padding: 5px;
+}
+
+.card-text{
+    font-size: large;
+}
+
+.act-img{
+    height: 260px;
+    width: 410px;
+}

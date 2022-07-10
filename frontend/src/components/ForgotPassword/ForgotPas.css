@@ -1,0 +1,18 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url('../Assets/Frame.png');
+  background-size: cover;
+  background-position: center center;
+}
+.btn-ungu{
+    background-color: #B19CD8;
+}
+.bg-card{
+    background-color: #e5d7ff;
+}
+.form-bg{
+  background-color: #dfd5ef;
+}
